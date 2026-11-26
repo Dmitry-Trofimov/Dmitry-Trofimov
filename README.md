@@ -1,52 +1,48 @@
-# Dmitry-Trofimov
+ <div align="center">
 
-<div align="center">
+  <h1>Dmitry-Trofimov</h1>
 
-  <h2>Network & System Administration</h2>
-  <p>
-    <i>Learning · Building · Exploring</i>
-  </p>
+  **NETWORK & SYSTEM ADMINISTRATION**
 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-       width="150"
-       alt="Pixel cat animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Linux+%7C+Networking+%7C+Infrastructure;Learning+%E2%80%A2+Building+%E2%80%A2+Exploring" alt="Typing SVG">
 
   <br>
 
-  <img src="https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Networking-181717?style=flat-square&logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="145" alt="Animated pixel cat">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=flat-square&logo=cisco&logoColor=58A6FF">
+  <img src="https://img.shields.io/badge/Infrastructure-0D1117?style=flat-square&logo=serverfault&logoColor=BC8CFF">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-  ### 📊 GitHub Statistics
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmitry-Trofimov&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=bc8cff&ring_color=58a6ff&include_all_commits=true" width="80%" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmitry-Trofimov&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=8B949E&icon_color=58A6FF&ring_color=BC8CFF&include_all_commits=true" width="85%" alt="GitHub Statistics">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-  ### 🐍 Contribution Activity
+  <h3>CONTRIBUTION ACTIVITY</h3>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-  <sub>© Dmitry-Trofimov · Built with curiosity.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%">
+
+  <sub>© 2026 Dmitry-Trofimov · Built with curiosity.</sub>
 
 </div>
