@@ -2,14 +2,6 @@
 
 <figure>
 <img
-src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,vscode,nginx,postgres,docker&amp;theme=dark&amp;perline=9"
-alt="Technologies and tools" />
-<figcaption aria-hidden="true">Technologies and tools</figcaption>
-</figure>
-
-
-<figure>
-<img
 src="https://github-readme-stats.vercel.app/api?username=Dmitry-Trofimov&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ec4899&amp;icon_color=00bfff&amp;text_color=c9d1d9&amp;rank_icon=github"
 alt="GitHub statistics" />
 <figcaption aria-hidden="true">GitHub statistics</figcaption>
