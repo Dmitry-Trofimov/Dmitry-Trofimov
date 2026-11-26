@@ -8,7 +8,6 @@
 
 ------------------------------------------------------------------------
 
-## 🧰 Technologies & Tools
 
 <figure>
 <img
@@ -17,7 +16,6 @@ alt="Technologies and tools" />
 <figcaption aria-hidden="true">Technologies and tools</figcaption>
 </figure>
 
-## 📊 GitHub Statistics
 
 <figure>
 <img
