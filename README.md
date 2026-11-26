@@ -17,16 +17,6 @@ alt="Technologies and tools" />
 <figcaption aria-hidden="true">Technologies and tools</figcaption>
 </figure>
 
-## 🖧 What I’m focused on
-
-| 🌐 Networking                                            | 🐧 System Administration                                         |
-|:---------------------------------------------------------|:-----------------------------------------------------------------|
-| TCP/IP · IPv4 · VLAN · Routing · OSPF · NAT · DNS · DHCP | Linux · ALT Server · SSH · Services · Firewall · Troubleshooting |
-
-| ⚙️ Infrastructure                                                  | 📚 Currently exploring                        |
-|:-------------------------------------------------------------------|:----------------------------------------------|
-| EcoRouter · Virtual labs · Network services · Server configuration | Bash automation · Docker · Samba AD · Ansible |
-
 ## 📊 GitHub Statistics
 
 <figure>
