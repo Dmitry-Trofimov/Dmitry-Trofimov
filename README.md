@@ -19,15 +19,7 @@
 
 </div>
 
-<br>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmitry-Trofimov&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=8B949E&icon_color=58A6FF&ring_color=BC8CFF&include_all_commits=true" width="85%" alt="GitHub Statistics">
-
-</div>
-
-<br>
 
 <div align="center">
 
